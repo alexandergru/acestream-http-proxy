@@ -1,5 +1,6 @@
 acestream-http-proxy
 ====================
+**This project is discounted. Please use [AceProxy](https://github.com/ValdikSS/aceproxy)**
 
 Ace stream to HTTP proxy
 It's very simple and ugly.
